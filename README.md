@@ -1,21 +1,20 @@
 # Accounting Dashboard Pro (Excel & Power BI)
 
-Projet réalisé dans le cadre d'un stage d'initiation, portant sur la structuration, l'analyse et la visualisation de données comptables et financières (ventes, achats, factures, trésorerie, accords de paiement et modes de règlement) à l'aide de Microsoft Excel et Power BI.
+An accounting and financial analytics project built during an initiation internship, focused on structuring, cleaning, and visualizing accounting data using Microsoft Excel and Power BI.
 
-# Tableaux de bord inclus
+# Included Dashboards
+- Sales Dashboard : Tracks sales performance, profit, average sale value, and monthly trends.
+- Purchases Dashboard : Analyzes monthly and company-level purchasing activity.
+- Invoice Dashboard : Monitors invoice statuses (Paid, Partially Paid, Unpaid) and monthly invoice volume.
+- Cash Flow Dashboard : Tracks cash inflows/outflows and net cash flow.
+- Payment Agreement Dashboard: Monitors payment agreements and payment terms.
+- Payment Methods Dashboard: Breaks down transactions and sales by payment method.
 
-- Sales Dashboard : Suivi des ventes, du profit, du panier moyen et de l'évolution mensuelle.
-- Purchases Dashboard : Analyse des achats par mois et par entreprise.
-- Invoice Dashboard : Suivi de l'état des factures (payées, partiellement payées, impayées) et de leur répartition mensuelle.
-- Cash Flow Dashboard : Suivi des entrées/sorties financières et de la trésorerie nette.
-- Payment Agreement Dashboard : Suivi des accords et délais de paiement.
-- Payment Methods Dashboard : Analyse des transactions selon les modes de règlement.
+# Repository Contents
+- `Accounting Dashboard Pro - Copie.pbix`: Power BI report and data model.
+- `Accounting_Data.xlsx`: Structured Excel workbook (`Bank_Statement`, `Invoices`, `Annual_Turnover`, `Payment_Agreement`).
+- `Dashboardguide.docx`: Project overview and usage guide.
 
-# Contenu du dépôt
-- `Accounting Dashboard Pro - Copie.pbix` : Rapport interactif et modèle de données Power BI.
-- `Accounting_Data.xlsx` : Classeur Excel contenant les tables de données (`Bank_Statement`, `Invoices`, `Annual_Turnover`, `Payment_Agreement`).
-- `Dashboardguide.docx` : Guide de présentation et d'utilisation du tableau de bord.
-
-# Outils utilisés
+# Tools & Technologies
 - Microsoft Excel
 - Power BI Desktop
